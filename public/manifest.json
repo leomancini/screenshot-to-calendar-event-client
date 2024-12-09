@@ -1,0 +1,9 @@
+{
+  "short_name": "Screenshot to Calendar Event Client",
+  "name": "Screenshot to Calendar Event Client",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
+
